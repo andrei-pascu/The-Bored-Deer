@@ -73,7 +73,7 @@ $(document).ready(function() {
   }
 //Translate Tree svg
   setTimeout(function() {
-    $('#tree').css({"transform": "translateX(-52%) translateY(10%) "+
+    $('#tree').css({"transform": "translateX(-55%) translateY(10%) "+
       "rotateX(0deg)", "transition": "2s"});
   }, 3000);
 //Animate DEER start (BODY)
