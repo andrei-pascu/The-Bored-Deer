@@ -564,10 +564,10 @@ $(document).ready(function() {
       $('.text-box').fadeTo(600, 0);}, 10500);
   setTimeout(function() {
     $('#skip-intro').slideDown(500);
-  }, 200);
+  }, 10000);
   setTimeout(function() {
     $('#question1').fadeTo(250, 1);
-  }, 200);
+  }, 8000);
 });
 //Entry first question
   var questionreset;
