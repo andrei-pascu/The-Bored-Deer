@@ -3,6 +3,7 @@ html body {
   padding: 0;
   overflow-x: hidden;
   cursor: default;
+  background-color: lightgreen;
 }
 .container {
   width: 100%;
