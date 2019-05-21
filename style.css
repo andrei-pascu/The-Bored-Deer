@@ -1643,7 +1643,6 @@ p {
   stroke-width: 0.01;
 }
 #sun {
-  animation: sun-animation  40s infinite linear;
   transform-origin: center;
   opacity: 0;
   fill: yellow;
